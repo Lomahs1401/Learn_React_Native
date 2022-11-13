@@ -25,6 +25,12 @@ This repository is all the code I learn by myself and refer to the React Native 
 
 ## How to run
 
-Install node_modules: npm install | npm i
-Run metro bundler: npm start
-After running metro bundler, run react native android: npx react-native run-android | yarn android
+Install node_modules: `npm install` | `npm i`
+
+Run metro bundler: `npm start`
+
+After running metro bundler, run react native android: `npx react-native run-android` | `yarn android`
+
+## Lesson 1:
+![image](https://user-images.githubusercontent.com/77973385/201512381-8588bda7-5f11-48f2-a18f-82360cc23743.png)
+
